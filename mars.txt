@@ -1,3 +1,4 @@
 Cold and dry, but everything is my favourite color
 The two moons may be a problem for Wolfman
 This line was also added to mars.txt at the same time
+This line added to mars.txt 
